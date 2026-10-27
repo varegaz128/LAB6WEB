@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 30px;
+    line-height: 1.6;
+}
+
+form div {
+    margin-bottom: 12px;
+}
+
+label {
+    display: inline-block;
+    width: 130px;
+    font-weight: bold;
+}
+
+input, select {
+    padding: 6px;
+    width: 250px;
+}
+
+button {
+    padding: 8px 15px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+
+.highlight {
+    color: #ee1096;
+    background-color: #e6f1ff;
+    border-left: 4px solid #d05c0a;
+    padding: 12px;
+}
+
+.teks-besar { 
+    font-size: 1.4rem; 
+}
+
+.selesai span { 
+    text-decoration: line-through; 
+    color: #15f00d; 
+}
+
+li { 
+    margin-bottom: 8px; 
+}
